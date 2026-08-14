@@ -23,13 +23,14 @@ sales, profit, products, regions, and customer behavior.
 Data Cleaning → Feature Engineering → EDA → Business Analysis → RFM Analysis → Visualization → Reporting
 
 ## Analysis
-- Data Cleaning
-- Exploratory Data Analysis
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
 - Sales & Profit Analysis
-- Product Analysis
+- Product & Category Analysis
 - Regional Analysis
+- Customer Analysis
 - RFM Customer Segmentation
-- KPI Analysis
 - Data Visualization
 
 ## Outputs
