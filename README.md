@@ -38,7 +38,7 @@ Data Cleaning → Feature Engineering → EDA → Business Analysis → RFM Anal
 - KPI summary
 - Visual reports
 
-  ## Author
+## Author
 
 Adham Hany
 
