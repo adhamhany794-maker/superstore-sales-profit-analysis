@@ -37,3 +37,9 @@ Data Cleaning → Feature Engineering → EDA → Business Analysis → RFM Anal
 - Cleaned dataset
 - KPI summary
 - Visual reports
+
+  ## Author
+
+Adham Hany
+
+Aspiring Data Analyst | Python • SQL • Excel • Power BI
