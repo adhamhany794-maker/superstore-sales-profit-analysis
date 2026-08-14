@@ -11,7 +11,14 @@ sales, profit, products, regions, and customer behavior.
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-- 
+
+## Objectives
+
+- Analyze sales and profit performance.
+- Identify trends across products, regions, and customers.
+- Perform customer segmentation using RFM analysis.
+- Create visualizations to support business insights.
+  
 ## Workflow
 Data Cleaning → Feature Engineering → EDA → Business Analysis → RFM Analysis → Visualization → Reporting
 
