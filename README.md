@@ -11,6 +11,9 @@ sales, profit, products, regions, and customer behavior.
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Excel
+- Power Pivot
+- Pivot table
 
 ## Objectives
 
@@ -18,9 +21,11 @@ sales, profit, products, regions, and customer behavior.
 - Identify trends across products, regions, and customers.
 - Perform customer segmentation using RFM analysis.
 - Create visualizations to support business insights.
+- Establishing relationships between the RFM and Orders sheets.
+- Create interactive Dashboard 
   
 ## Workflow
-Data Cleaning → Feature Engineering → EDA → Business Analysis → RFM Analysis → Visualization → Reporting
+Data Cleaning → Feature Engineering → EDA → Business Analysis → RFM Analysis → Visualization →Data modeling → Pivot tables → Interactive Dashboard → Reporting
 
 ## Analysis
 
@@ -32,11 +37,13 @@ Data Cleaning → Feature Engineering → EDA → Business Analysis → RFM Anal
 - Customer Analysis
 - RFM Customer Segmentation
 - Data Visualization
+- Interactive Dashboard
 
 ## Outputs
 - Cleaned dataset
 - KPI summary
 - Visual reports
+- Interactive Dashboard
 
 ## Author
 
